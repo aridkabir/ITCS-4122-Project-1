@@ -101,7 +101,7 @@ for trace in fig_brand.data:
 
 for trace in fig_quantity.data:
     trace.legendgroup = trace.name
-    trace.showlegend = False 
+    trace.showlegend = True 
     fig.add_trace(trace, row=2, col=2)
 
 # Final layout
