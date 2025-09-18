@@ -73,3 +73,4 @@ Here are some steps taken to make the data analysis reliable:
 - Reintroduce an interactive median line for Chart 1 / Chart 2 which would change the median based on the selected brands in the legend.
 - Make the dashboard more clean / visually appealing.
 
+[Portfolio Post](https://aridkabir.github.io/itcs4122/project1/)
